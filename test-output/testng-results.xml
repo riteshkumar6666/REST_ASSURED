@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="17" total="18" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-01T19:41:56 BST" name="Default suite" finished-at="2022-07-01T19:42:00 BST" duration-ms="4265">
+    <groups>
+    </groups>
+    <test started-at="2022-07-01T19:41:56 BST" name="Default test" finished-at="2022-07-01T19:42:00 BST" duration-ms="4265">
+      <class name="com.bridgelabz.spotify.spotifyApi">
+        <test-method is-config="true" signature="getPlaylistId()[pri:0, instance:com.bridgelabz.spotify.spotifyApi@17046283]" started-at="2022-07-01T19:41:56 BST" name="getPlaylistId" finished-at="2022-07-01T19:41:56 BST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPlaylistId -->
+        <test-method is-config="true" signature="getToken()[pri:0, instance:com.bridgelabz.spotify.spotifyApi@17046283]" started-at="2022-07-01T19:41:56 BST" name="getToken" finished-at="2022-07-01T19:41:56 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToken -->
+        <test-method is-config="true" signature="getTrack()[pri:0, instance:com.bridgelabz.spotify.spotifyApi@17046283]" started-at="2022-07-01T19:41:56 BST" name="getTrack" finished-at="2022-07-01T19:41:56 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTrack -->
+        <test-method signature="get_Playlist_Items()[pri:0, instance:com.bridgelabz.spotify.spotifyApi@17046283]" started-at="2022-07-01T19:41:56 BST" name="get_Playlist_Items" finished-at="2022-07-01T19:42:00 BST" duration-ms="4212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Playlist_Items -->
+      </class> <!-- com.bridgelabz.spotify.spotifyApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
